@@ -2,8 +2,6 @@
 
 This is a simple Tic-Tac-Toe game built using React. The project was created to understand and practice React concepts, including component structure, state management, and event handling.
 
-## Demo
-
 ## Features
 
 - **Interactive Gameplay**: Click on the board to make your move.
